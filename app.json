@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Rootine",
+    "slug": "rootine",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#DFE2DA",
+    "splash": {
+      "backgroundColor": "#DFE2DA",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.rootine.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#DFE2DA"
+      },
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "ios": {
+      "bundleIdentifier": "com.rootine.app",
+      "supportsTablet": true
+    }
+  }
+}
